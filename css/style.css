@@ -4,7 +4,7 @@
 }
 
 body {
-	background-color: #ccc;
+	background-color: #DFDFDF;
 	background-size: cover;
 }
 
@@ -17,14 +17,14 @@ nav {
 nav p {
 	font-family: 'Datalegreya';
 	color: #222;
-	font-size: 30px;
+	font-size: 25px;
 	line-height: 55px;
 	float: left;
 	padding: 0px 20px;
 }
 
 nav ul {
-	float: left;
+	float: center;
 }
 
 nav ul li {
@@ -65,24 +65,24 @@ nav ul li ul li a:hover {
 }
 
 a {
-	font-family: 'DatalegreyaDot';
+	font-family: 'Datalegreya';
 	font-weight: normal;
 	font-style: normal;
-	font-size: 40px;
+	font-size: 25px;
 	color: #000000;
 	text-decoration: none;
 }
 
 h1 {
-	font-family: 'HiLoDecoDeco';
+	font-family: 'AaarghNormal';
 	font-weight: normal;
 	font-style: normal;
-	font-size: 70px;
+	font-size: 50px;
 	text-decoration: underline;
 }
 
 h3 {
-	font-family: 'AaarghNormal';
+	font-family: 'GardinerRegular';
 	font-weight: normal;
 	font-style: normal;
 	font-size: 28px;
@@ -91,7 +91,7 @@ h3 {
 }
 
 p {
-	font-family: 'Datalegreya';
+	font-family: 'DatalegreyaDot';
 	font-weight: bold;
 	font-style: normal;
 	font-size: 20px;
@@ -145,10 +145,8 @@ p {
 }
 
 .home {
-	padding: 10px;
-	position: absolute;
-	top: 30vh;
-	right: 50px;
+	padding: 2px;
+	position: relative;
 }
 
 .projects {
